@@ -1,0 +1,3 @@
+rootProject.name = 'YYCrnProject'
+
+include ':app'
